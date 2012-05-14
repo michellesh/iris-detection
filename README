@@ -1,0 +1,6 @@
+This program runs in Processing. http://processing.org
+by Michelle Sharer. http://michellesh.com
+
+irisDetect.pde: takes in a photo 'eye.JPG' as input
+eye.JPG: must be in 'data' directory in the sketch's directory
+
